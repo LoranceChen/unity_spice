@@ -7,6 +7,9 @@ using System.Collections;
 /// 
 /// OnRenderImage:
 /// https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnRenderImage.html
+/// 
+/// NOTICE:
+/// Only support GLSL, NOT support surf shader
 /// </summary>
 //namespace UnityStandardAssets.ImageEffects {
 	public class OldFilmImageEffect : MonoBehaviour {
