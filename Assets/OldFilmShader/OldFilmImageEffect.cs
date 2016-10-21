@@ -12,6 +12,7 @@ using System.Collections;
 /// Only support GLSL, NOT support surf shader
 /// </summary>
 //namespace UnityStandardAssets.ImageEffects {
+	[ExecuteInEditMode]
 	public class OldFilmImageEffect : MonoBehaviour {
 //		public Texture  textureRamp;
 //		public Shader oldFilm;
