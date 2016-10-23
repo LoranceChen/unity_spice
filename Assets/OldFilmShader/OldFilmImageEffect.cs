@@ -20,9 +20,9 @@ using System.Collections;
 		void OnRenderImage(RenderTexture src, RenderTexture dest) {
 //			material.shader = oldFilm;
 
-			var f = mat.GetFloat("InnerVignetting");
+//			var f = mat.GetFloat("InnerVignetting");
 //			material.SetFloat("InnerVignetting", 0.1f);
-			Debug.Log ("aaa - " + f);
+//			Debug.Log ("aaa - " + f);
 
 
 //			int rtW = src.width/4;
